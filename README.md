@@ -5,7 +5,7 @@ If you dont know how to use these launchers im not helping you
 
 
 
-Eon: https://github.com/EonOGFN/OGFN-Launcher
+Plauge: https://github.com/EonOGFN/OGFN-Launcher
 
 
 
