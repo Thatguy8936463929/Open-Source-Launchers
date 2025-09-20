@@ -1,0 +1,4 @@
+C:\Users\Gabem\source\repos\CosmoLauncherV1\CosmoLauncherV1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Gabem\source\repos\CosmoLauncherV1\CosmoLauncherV1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Gabem\source\repos\CosmoLauncherV1\CosmoLauncherV1\obj\Debug\net8.0-windows\CosmoLauncherV1_MarkupCompile.cache
+C:\Users\Gabem\source\repos\CosmoLauncherV1\CosmoLauncherV1\obj\Debug\net8.0-windows\CosmoLauncherV1_MarkupCompile.lref
