@@ -11,6 +11,8 @@ Plauge: https://github.com/EonOGFN/OGFN-Launcher
 
 Eon v1: https://github.com/eonfn/Launcher-V1
 
+PeanutStash/ Me made this one: https://github.com/Thatguy8936463929/Cosmo-Launcher-
+
 
 
 Ploosh: https://github.com/plooshi/Launcher
